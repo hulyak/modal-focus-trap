@@ -1,6 +1,6 @@
 # Accessible Modal with focus-trap-react
 
-This project uses [focus-trap-react](https://github.com/focus-trap/focus-trap-react/tree/master/demo/js) to create an accessible modal. 
+This project uses [focus-trap-react](https://github.com/focus-trap/focus-trap-react) to create an accessible modal. 
 ## Installation
 
 In the project directory, you can run:
