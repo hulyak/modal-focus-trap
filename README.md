@@ -3,8 +3,6 @@
 This project uses [focus-trap-react](https://github.com/focus-trap/focus-trap-react) to create an accessible modal. 
 ## Installation
 
-In the project directory, you can run:
-
 ## Running the Example
 
 1. Clone this repository:
